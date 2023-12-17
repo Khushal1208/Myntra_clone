@@ -108,8 +108,5 @@ function generateItemHTML(item) {
 <div class="remove-from-cart" onclick = "removeFromBag(${item.id})">X</div>
 </div>
 
-
-
-
 `;
 }
